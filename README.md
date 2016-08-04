@@ -8,4 +8,4 @@ iOS-Deliver&amp;ResponderChainTest
 
 
 
-![简书slogan](./test.jpg  =200x)
+![image](./test.jpg  =200x)
