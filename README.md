@@ -8,4 +8,4 @@ iOS-Deliver&amp;ResponderChainTest
 
 
 
-![image](./test.jpg  =200x300)
+<img src="./test.jpg" alt="alt text" title="Title" />
