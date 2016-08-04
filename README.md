@@ -8,4 +8,4 @@ iOS-Deliver&amp;ResponderChainTest
 
 
 
-<img src="./test.jpg" alt="alt text" title="Title" />
+![](./test.jpg =200x)
